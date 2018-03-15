@@ -1,0 +1,8 @@
+{
+  "name": "FlashLightApp",
+  "app_id": "a80a5571",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
